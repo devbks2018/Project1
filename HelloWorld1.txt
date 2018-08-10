@@ -1,7 +1,4 @@
 This is first text
 This is second line
-<<<<<<< HEAD
 This is in master branch after creating branch 1
-=======
 This is added in Branch 1
->>>>>>> branch1
